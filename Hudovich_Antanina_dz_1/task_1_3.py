@@ -19,3 +19,5 @@ elif any_percent_else % 100 > 14 and 2 <= any_percent_else % 10 <= 4:
     print(any_percent_else, 'процента')
 else:
     print(any_percent_else, 'процентов')
+
+print('Fetch chek')
