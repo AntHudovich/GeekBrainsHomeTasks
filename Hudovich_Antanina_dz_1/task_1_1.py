@@ -22,3 +22,6 @@ elif duration < 86400:
     print(hours, 'час', minutes_under_hours, 'мин', seconds, 'сек')
 else:
     print(days, 'дн', hours, 'час', minutes_under_hours, 'мин', seconds, 'сек')
+
+# Проверка Git commit
+print('Was that a good try?')
